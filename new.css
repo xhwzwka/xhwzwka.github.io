@@ -1,0 +1,13 @@
+h1,h2 {
+  color: #ffa500;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: gray;
+}
+
+p,li {
+  color: #ffffff;
+  font-family: sans-serif;
+}
