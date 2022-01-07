@@ -4,10 +4,15 @@ h1,h2 {
 }
 
 body {
-  background-color: gray;
+  background-color: #7f7f7f;
 }
 
 p {
   color: #ffffff;
+  font-family: sans-serif;
+}
+
+a {
+  color: #ffff00;
   font-family: sans-serif;
 }
